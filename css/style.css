@@ -1,0 +1,25 @@
+td, th{
+    border: 2px solid;
+    padding: 10px;
+}
+
+table{
+    width: 1000px;
+    border-collapse: collapse ;
+}
+.compare{
+    background-color: rgb(175, 113, 33);
+
+}
+.empresa{
+    background-color: rgb(57, 54, 50);
+}
+.avancar{
+    background-color: rgb(211, 50, 50);
+}
+.starter{
+    background-color: rgb(88, 210, 40);
+}
+.fonte{
+    font-size: small;
+}
